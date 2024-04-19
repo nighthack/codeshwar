@@ -1,1 +1,2 @@
-Coming Soon Template
+
+## Starting the Project
